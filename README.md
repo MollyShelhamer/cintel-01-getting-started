@@ -112,6 +112,10 @@ git push -u origin main
 
 </details>
 
+## Modifications
+- added new log message in line 51 pipeline_shelhamer.py
+- "LOG.info("Experimental modification by Molly Shelhamer")
+
 ## Notes
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
