@@ -48,6 +48,7 @@ def main() -> None:
     log_path(LOG, "ROOT_DIR", ROOT_DIR)
     log_path(LOG, "DOCS_DIR", DOCS_DIR)
 
+    LOG.info("Experimental modification by Molly Shelhamer")
     LOG.info("========================")
     LOG.info("Pipeline executed successfully!")
     LOG.info("========================")
